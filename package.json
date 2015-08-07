@@ -18,6 +18,6 @@
   "author": "Olivier Lalonde <olalonde@gmail.com>",
   "license": "BSD",
   "dependencies": {
-    "xml2json": ""
+    "xml2json": "git://github.com/Moharu/node-xml2json.git"
   }
 }
